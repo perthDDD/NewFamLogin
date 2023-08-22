@@ -7,9 +7,9 @@ loginButton.addEventListener("click", (e) => {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
 
-    if (username === "perthTGW500" && password === "uniteAs1Acheive") {
+    if (username === "quokkaNF" && password === "G9oClock") {
         alert("You have successfully logged in.");
-        window.location.href = "https://funky-wave-252.notion.site/TGW-EDU-8f4b6fadf4264c76a5283d00aafe0a23?pvs=4";
+        window.location.href = "https://funky-wave-252.notion.site/New-Family-EDU-fe24c857dcbc4c76b29f925aed3f0888?pvs=4";
     } else {
         loginErrorMsg.style.opacity = 1;
     }
